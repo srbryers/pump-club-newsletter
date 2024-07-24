@@ -1,0 +1,22 @@
+{
+  id: 'post_c61f9e3c-0e5a-446a-bff1-3a4f035dd2a5',
+  title: 'Your $100 gift',
+  subtitle: 'Your $100 gift',
+  authors: [],
+  created: 1708114550,
+  status: 'confirmed',
+  publish_date: 1708116246,
+  displayed_date: null,
+  split_tested: false,
+  subject_line: 'Your $100 gift',
+  preview_text: "Thanks for being a member of The Pump. Here's your $100 gift card to Momentous",
+  slug: '100-gift',
+  thumbnail_url: 'https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/73eeab5d-a398-4226-9a81-e8c04c491833/P-01521-1.png?t=1695335340',
+  web_url: 'https://arnoldspumpclub.schwarzenegger.com/p/100-gift',
+  audience: 'free',
+  platform: 'email',
+  content_tags: [],
+  meta_default_description: 'Many studies highlight how social media can harm mental health, but new research suggests a connection to chronic inflammation. ',
+  meta_default_title: 'How Social Media Affects Your Physical Health',
+  content: { free: [Object] }
+}
